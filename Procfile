@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n twiki
+hubot: bin/hubot -a flowdock -n twiki
