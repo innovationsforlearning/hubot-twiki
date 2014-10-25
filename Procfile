@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n skynet
+web: bin/hubot -a slack -n ultron
